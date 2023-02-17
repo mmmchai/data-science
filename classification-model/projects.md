@@ -11,7 +11,7 @@ The project is carried out using Cross-Industry Standard Process for Data Mining
 	5. Evaluation against business objective
 	6. Deployment
 
-As this is a sand-box project, step 5 and 6 is not carried to the full extent. 
+As this is a sand-box project, step 5 and 6 are not carried to the full extent. 
 
 ## Business Problem
 An investment bank specialize in arranging corporate debt financing by finding large-scale institutional investors for corporate bonds. The bank is looking to use machine learning to predict corporate bankruptcy two years into the future for any future clients they may secure financing for
