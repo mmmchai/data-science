@@ -1,1 +1,2 @@
-
+- Classification-model: data science projects exploring Logistic Regression, Decision Tree, Random Forest
+- Webscrape: code developed to obtain major household appliance information (such as brand, application key features, reviews, price) to obtain competitive intelligence insight of the market in support of Miele USA expansion strategy
