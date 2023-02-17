@@ -21,3 +21,4 @@ To develop a machine learning model to predict whether a company would declare b
 - Features varies in magnitudes and ranges which will skew the model.--> scaling is required
 - Outliers / Missing values --> manipulation / imputation is required
 
+Please note: this is a sand box project
