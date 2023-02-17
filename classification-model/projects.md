@@ -16,7 +16,7 @@ An investment bank specialize in arranging corporate debt financing by finding l
 To develop a machine learning model to predict whether a company would declare bankruptcy within the next 2 years
 
 ## Data: 
-	The data contains 12 features ((EPS, Liquidity, Profitability, leverage Ratio), 100,000 instances. 
+- The data contains 12 features ((EPS, Liquidity, Profitability, leverage Ratio etc), 100,000 instances. 
 
 	0.5% declared bankruptcy --> This is a small and unbalanced data set. The algorithm must be able to handle small data effectively. Data set should be manipulated to produce a balanced data set to ensure the minority class is represented. 
 	
